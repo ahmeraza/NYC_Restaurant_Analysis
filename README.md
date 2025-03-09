@@ -32,6 +32,7 @@ and customer order data to provide actionable insights
 To set up this project locally:
 1. Clone the repository:
    ```bash
-   git clone git@github.com:ahmeraza/NYC_Restaurants_Analysis.git
+   git clone git@github.com:ahmeraza/NYC_Restaurant_Analysis.git
+   
 ```
 
